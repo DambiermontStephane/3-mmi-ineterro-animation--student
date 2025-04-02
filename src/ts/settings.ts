@@ -6,5 +6,6 @@ export const settings = {
     minSpeed: 1,
     maxSpeed: 3,
     redColor: new Rgb(250, 0, 0),
-    maxFallingObstacles: 5
+    maxFallingObstacles: 5,
+    canvasID: "my-canvas"
 }
